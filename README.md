@@ -37,7 +37,7 @@
   </h4>
 
 
-<p align="center"> 
+<p align="left"> 
   <i> More about me: </i>
 </p>
 
