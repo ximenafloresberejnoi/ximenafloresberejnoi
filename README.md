@@ -3,7 +3,7 @@
 <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Earth.gif" width="24px"></h4>
 
 <p align="center"> 
-  <i> Let's connect and chat! :incoming_envelope: </i>
+  <i> If you want to know more about me: </i>
 </p>
 
 <p align="center">
@@ -14,9 +14,6 @@
 
 <!--https://icons8.com/icons/set/svg-->
 
-<!--https://icons8.com/icons/set/svg-->
-
-<!--https://icons8.com/icons/set/svg-->
 <!--
 **ximenafloresberejnoi/ximenafloresberejnoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
