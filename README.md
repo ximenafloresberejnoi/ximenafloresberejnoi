@@ -1,6 +1,5 @@
 
-<h4> Hey there! Welcome to my Github <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
-<img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Earth.gif" width="24px"></h4>
+<h4><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hey there! Welcome to my Github</h4>
 
 <p align="center"> 
   <i> If you want to know more about me: </i>
