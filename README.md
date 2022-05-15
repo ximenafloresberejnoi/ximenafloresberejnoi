@@ -29,18 +29,17 @@
     </tr>
   </tbody>
 </table>
-<hr>
 
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-         <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"> 
+      <td width="25%" height="25%" align="center">
+        <span>VSC</span><br><br><br>
+         <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="20"> 
       </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+      <td width="25%" height="25%" align="center">
+        <span>Git</span><br><br><br>
+        <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50">
       </td>
     </tr>
   </tbody>
