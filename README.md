@@ -1,5 +1,5 @@
 ### Hi there 👋
-<table> <tr> <td bgcolor = # 7FFFD4> El color de fondo aquí es: aguamarina, valor de color hexadecimal: # 7FFFD4, rgb (127, 255, 212) </td> </tr> </ table >
+
 <!--
 **ximenafloresberejnoi/ximenafloresberejnoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
