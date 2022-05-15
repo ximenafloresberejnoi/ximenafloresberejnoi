@@ -33,11 +33,11 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="15%" align="center">
+      <td width="25%" align="center">
         <span>VSC</span><br><br><br>
          <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40"> 
       </td>
-      <td width="15%" align="center">
+      <td width="25%" align="center">
         <span>Git</span><br><br><br>
         <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70">
       </td>
