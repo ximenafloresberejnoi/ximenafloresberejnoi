@@ -15,13 +15,13 @@
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
         <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
       </td>
-      <td width="50%" align="center">
+      <td width="25%" align="center">
         <span>𝗖𝗦𝗦𝟯</span><br><br><br>
         <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
       </td>
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-       <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+     <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
       </td>
     </tr>
   </tbody>
