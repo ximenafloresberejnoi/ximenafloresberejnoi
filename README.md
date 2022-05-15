@@ -37,19 +37,19 @@
   </h4>
 
 
-
-
-
 <p align="center"> 
   <i> More about me: </i>
 </p>
-<p align="center">
-<a href="https://www.linkedin.com/in/ximena-flores-berejnoi/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
-<a href="https://www.instagram.com/ximefloresberejnoi/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-instagram-48.png" alt="Instagram"></a> &nbsp; &nbsp;
-<a href="floresberejnoi@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
-</p>
 
-<!--https://icons8.com/icons/set/svg-->
+ <a href="https://www.linkedin.com/in/ximena-flores-berejnoi/">
+    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://www.instagram.com/ximefloresberejnoi/">
+    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a>
+  <a href="floresberejnoi@gmail.com">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
 
 <!--
 **ximenafloresberejnoi/ximenafloresberejnoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
