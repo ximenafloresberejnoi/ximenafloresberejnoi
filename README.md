@@ -36,22 +36,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p align="center"> 
-  <i> If you want to know more about me: </i>
+  <i> More about me: </i>
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/ximena-flores-berejnoi/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
