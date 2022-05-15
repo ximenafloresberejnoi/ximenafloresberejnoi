@@ -1,7 +1,3 @@
-![Hi! I'm Xime!](https://github.com/selebruno/selebruno/blob/main/hi!%20i%C2%B4m%20sele.gif)
-
-
-
 
 <h4> Hey there! Welcome to my Github <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
 <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Earth.gif" width="24px"></h4>
