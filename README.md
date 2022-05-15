@@ -33,14 +33,14 @@
 <hr>
 
   <h4>
- <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+ <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">   
+ <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
   </h4>
 
 
 <p align="left"> 
   <i> More about me: </i>
 </p>
-
  <a href="https://www.linkedin.com/in/ximena-flores-berejnoi/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
@@ -51,6 +51,7 @@
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
+#####  `Thank you for your time`
 <!--
 **ximenafloresberejnoi/ximenafloresberejnoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
