@@ -7,7 +7,6 @@
 
 
 ## 💻 Languages and Tools 
-
 <table>
   <tbody>
     <tr valign="top">
@@ -32,15 +31,26 @@
 </table>
 <hr>
 
-  <h4>
- <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">   
- <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
-  </h4>
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+         <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"> 
+      </td>
+      <td width="25%" align="center">
+        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+        <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+      </td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+  
 
-
-<p align="left"> 
+<h2 align="left"> 
   More about me: 
-</p>
+</h2>
  <a href="https://www.linkedin.com/in/ximena-flores-berejnoi/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
