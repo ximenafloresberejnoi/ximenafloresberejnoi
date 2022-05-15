@@ -35,21 +35,18 @@
     <tr valign="top">
       <td width="25%" height="25%" align="center">
         <span>VSC</span><br><br><br>
-         <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="20"> 
+         <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70"> 
       </td>
       <td width="25%" height="25%" align="center">
         <span>Git</span><br><br><br>
-        <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50">
+        <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70">
       </td>
     </tr>
   </tbody>
 </table>
-<hr>
   
 
-<h2 align="left"> 
-  😄More about me: 
-</h2>
+## More about me
  <a href="https://www.linkedin.com/in/ximena-flores-berejnoi/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
@@ -58,7 +55,7 @@
   </a>
   <a href="floresberejnoi@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a> <br> <br>
+  </a>
 
 
 
