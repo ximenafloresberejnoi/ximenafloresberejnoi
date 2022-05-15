@@ -23,7 +23,7 @@
      <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
       </td>
       <td width="25%" align="center">
-        <span>npm</span><br><br><br>
+        <span>Npm</span><br><br><br>
 <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
       </td>
     </tr>
@@ -35,7 +35,7 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span>VSC</span><br><br><br>
-         <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40"> 
+         <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="30"> 
       </td>
       <td width="25%" align="center">
         <span>Git</span><br><br><br>
