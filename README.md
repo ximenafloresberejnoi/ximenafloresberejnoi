@@ -23,6 +23,10 @@
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
      <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
       </td>
+      <td width="25%" align="center">
+        <span>npm</span><br><br><br>
+<a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+      </td>
     </tr>
   </tbody>
 </table>
