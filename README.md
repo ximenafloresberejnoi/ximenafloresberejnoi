@@ -1,5 +1,5 @@
 
-<h4><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hey there! Welcome to my Github</h4>
+<h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  HEY THERE! WELCOME TO MY GITHUB</h2>
 
 <p align="center"> 
   <i> If you want to know more about me: </i>
