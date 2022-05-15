@@ -1,7 +1,18 @@
 
 <h4> Hey there! Welcome to my Github <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
 <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Earth.gif" width="24px"></h4>
+<p align="center"> 
+  <i> Let's connect and chat! </i>
+</p>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/sarthak77"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
+<a href="https://www.instagram.com/sarthak02singhal/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-instagram-48.png" alt="Instagram"></a> &nbsp; &nbsp;
+<a href="https://www.facebook.com/sarthak.singhal.98434"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-facebook-48.png" alt="Facebook"></a> &nbsp; &nbsp;
+<a href="mailto:sarthak02singhal@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
+</p>
+
+<!--https://icons8.com/icons/set/svg-->
 <!--
 **ximenafloresberejnoi/ximenafloresberejnoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
