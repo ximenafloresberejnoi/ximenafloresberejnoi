@@ -1,7 +1,7 @@
 
 <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hey there! Welcome to my Github!</h2>
 
-<p><em> 🚀 Almost finished <a href="https://www.soyhenry.com/"> Soy Henry's Bootcamp</a>
+<p><em> 🚀 UX/UI Designer <a href="#"></a>
  </br> 🎓 I have a degree in marketing <a href="https://www.ucasal.edu.ar/">| Universidad Católica de Salta </a>
 </em></p>
 
